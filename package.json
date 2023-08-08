@@ -1,5 +1,5 @@
 {
-  "name": "github-actions-demo",
+  "name": "github-actions-on-localhost",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -25,14 +25,5 @@
     "lint": "eslint .",
     "anything" :"echo 'I can execute anything from the terminal' "
   },
-  "description": "Running YAML Actions Everywhere",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Jalalhejazi/github-actions-locally.git"
-  },
-  "author": "",
-  "bugs": {
-    "url": "https://github.com/Jalalhejazi/github-actions-locally/issues"
-  },
-  "homepage": "https://github.com/Jalalhejazi/github-actions-locally#readme"
+  "description": "Running YAML Actions Everywhere"
 }
