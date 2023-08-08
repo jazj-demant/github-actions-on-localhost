@@ -21,7 +21,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "mocha ./tests --recursive",
+    "test": "mocha ./tests",
     "lint": "eslint .",
     "anything" :"echo 'I can execute anything from the terminal' "
   },
